@@ -1,0 +1,75 @@
+{"trainers":[
+             {
+                "firstname": "Giovanni",
+                "lastname": "Rocket",
+                "nickname": "G",
+                "occupation": "Owner of TR",
+                "alive": "Living",
+                "pokemon": "Nidoking",
+                "dob": "1983-09-02"
+             },
+             {
+                "firstname": "Misty",
+                "lastname": "Water",
+                "nickname": "Mist",
+                "occupation": "Gym leader",
+                "alive": "living",
+                "pokemon": "Starmie",
+                "dob": "1986-06-06"
+             },
+             {
+                "firstname": "Brock",
+                "lastname": "Stone",
+                "nickname": "Rock",
+                "occupation": "Gym Leader",
+                "alive": "living",
+                "pokemon": "Onix",
+                "dob": "1980-03-11"
+             },
+             {
+                "firstname": "Red",
+                "lastname": "Version",
+                "nickname": "Xise",
+                "occupation": "Trainer",
+                "alive": "living",
+                "pokemon": "Yveltal",
+                "dob": "1988-04-28"
+             },
+             {
+                "firstname": "Sabrina",
+                "lastname": "Whip",
+                "nickname": "Psycho",
+                "occupation": "Gym Leader",
+                "alive": "living",
+                "pokemon": "Alakazam",
+                "dob": "1978-09-02"
+             },
+             {
+                "firstname": "Blaine",
+                "lastname": "Magma",
+                "nickname": "HotHead",
+                "occupation": "Gym Leader",
+                "alive": "Dead",
+                "pokemon": "Arcanine",
+                "dob": "1951-12-23"
+             },
+             {
+                "firstname": "Lance",
+                "lastname": "Dragon",
+                "nickname": "Power",
+                "occupation": "Elitefour",
+                "alive": "living",
+                "pokemon": "Dragonite",
+                "dob": "1967-08-20"
+             },
+             {
+                "firstname": "Blue",
+                "lastname": "Oak",
+                "nickname": "Gary",
+                "occupation": "Trainer",
+                "alive": "living",
+                "pokemon": "Blastoise",
+                "dob": "1988-04-02"
+             }
+
+]}
